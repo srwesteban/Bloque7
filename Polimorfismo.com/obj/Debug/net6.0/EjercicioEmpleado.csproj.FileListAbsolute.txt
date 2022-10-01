@@ -1,0 +1,15 @@
+/Users/williamesteban/Projects/Polimorfismo.com/Polimorfismo.com/bin/Debug/net6.0/Polimorfismo.com
+/Users/williamesteban/Projects/Polimorfismo.com/Polimorfismo.com/bin/Debug/net6.0/Polimorfismo.com.deps.json
+/Users/williamesteban/Projects/Polimorfismo.com/Polimorfismo.com/bin/Debug/net6.0/Polimorfismo.com.runtimeconfig.json
+/Users/williamesteban/Projects/Polimorfismo.com/Polimorfismo.com/bin/Debug/net6.0/Polimorfismo.com.dll
+/Users/williamesteban/Projects/Polimorfismo.com/Polimorfismo.com/bin/Debug/net6.0/Polimorfismo.com.pdb
+/Users/williamesteban/Projects/Polimorfismo.com/Polimorfismo.com/obj/Debug/net6.0/EjercicioEmpleado.csproj.AssemblyReference.cache
+/Users/williamesteban/Projects/Polimorfismo.com/Polimorfismo.com/obj/Debug/net6.0/EjercicioEmpleado.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamesteban/Projects/Polimorfismo.com/Polimorfismo.com/obj/Debug/net6.0/EjercicioEmpleado.AssemblyInfoInputs.cache
+/Users/williamesteban/Projects/Polimorfismo.com/Polimorfismo.com/obj/Debug/net6.0/EjercicioEmpleado.AssemblyInfo.cs
+/Users/williamesteban/Projects/Polimorfismo.com/Polimorfismo.com/obj/Debug/net6.0/EjercicioEmpleado.csproj.CoreCompileInputs.cache
+/Users/williamesteban/Projects/Polimorfismo.com/Polimorfismo.com/obj/Debug/net6.0/Polimorfismo.com.dll
+/Users/williamesteban/Projects/Polimorfismo.com/Polimorfismo.com/obj/Debug/net6.0/refint/Polimorfismo.com.dll
+/Users/williamesteban/Projects/Polimorfismo.com/Polimorfismo.com/obj/Debug/net6.0/Polimorfismo.com.pdb
+/Users/williamesteban/Projects/Polimorfismo.com/Polimorfismo.com/obj/Debug/net6.0/EjercicioEmpleado.genruntimeconfig.cache
+/Users/williamesteban/Projects/Polimorfismo.com/Polimorfismo.com/obj/Debug/net6.0/ref/Polimorfismo.com.dll
