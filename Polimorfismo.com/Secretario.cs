@@ -3,6 +3,8 @@ namespace EjercicioEmpleado
 {
     public class Secretario:Empleado,IEmpleado
     {
+
+
         private string Puesto = "Secretario";
         private int NumeroFax;
         public Secretario()

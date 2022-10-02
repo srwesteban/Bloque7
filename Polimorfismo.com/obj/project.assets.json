@@ -8,24 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/williamesteban/.nuget/packages/": {}
+    "C:\\Users\\W\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/williamesteban/Projects/Polimorfismo.com/Polimorfismo.com/EjercicioEmpleado.csproj",
+      "projectUniqueName": "C:\\Users\\W\\Documents\\GitHub\\Bloque7\\Polimorfismo.com\\EjercicioEmpleado.csproj",
       "projectName": "Polimorfismo.com",
-      "projectPath": "/Users/williamesteban/Projects/Polimorfismo.com/Polimorfismo.com/EjercicioEmpleado.csproj",
-      "packagesPath": "/Users/williamesteban/.nuget/packages/",
-      "outputPath": "/Users/williamesteban/Projects/Polimorfismo.com/Polimorfismo.com/obj/",
+      "projectPath": "C:\\Users\\W\\Documents\\GitHub\\Bloque7\\Polimorfismo.com\\EjercicioEmpleado.csproj",
+      "packagesPath": "C:\\Users\\W\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\W\\Documents\\GitHub\\Bloque7\\Polimorfismo.com\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/williamesteban/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\W\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
