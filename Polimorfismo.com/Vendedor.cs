@@ -33,7 +33,6 @@ namespace EjercicioEmpleado
         public List<string> darDeAlta(int i)
         {
             i = i-1;
-            ListaClientes.Remove(i);
             return this.ListaClientes;
         }
         public List<string> darDeBaja()

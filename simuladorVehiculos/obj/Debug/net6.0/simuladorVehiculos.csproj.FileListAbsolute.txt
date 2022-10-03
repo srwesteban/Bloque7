@@ -1,0 +1,15 @@
+C:\Users\W\Documents\GitHub\Bloque7\simuladorVehiculos\bin\Debug\net6.0\simuladorVehiculos.exe
+C:\Users\W\Documents\GitHub\Bloque7\simuladorVehiculos\bin\Debug\net6.0\simuladorVehiculos.deps.json
+C:\Users\W\Documents\GitHub\Bloque7\simuladorVehiculos\bin\Debug\net6.0\simuladorVehiculos.runtimeconfig.json
+C:\Users\W\Documents\GitHub\Bloque7\simuladorVehiculos\bin\Debug\net6.0\simuladorVehiculos.dll
+C:\Users\W\Documents\GitHub\Bloque7\simuladorVehiculos\bin\Debug\net6.0\simuladorVehiculos.pdb
+C:\Users\W\Documents\GitHub\Bloque7\simuladorVehiculos\obj\Debug\net6.0\simuladorVehiculos.csproj.AssemblyReference.cache
+C:\Users\W\Documents\GitHub\Bloque7\simuladorVehiculos\obj\Debug\net6.0\simuladorVehiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W\Documents\GitHub\Bloque7\simuladorVehiculos\obj\Debug\net6.0\simuladorVehiculos.AssemblyInfoInputs.cache
+C:\Users\W\Documents\GitHub\Bloque7\simuladorVehiculos\obj\Debug\net6.0\simuladorVehiculos.AssemblyInfo.cs
+C:\Users\W\Documents\GitHub\Bloque7\simuladorVehiculos\obj\Debug\net6.0\simuladorVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\W\Documents\GitHub\Bloque7\simuladorVehiculos\obj\Debug\net6.0\simuladorVehiculos.dll
+C:\Users\W\Documents\GitHub\Bloque7\simuladorVehiculos\obj\Debug\net6.0\refint\simuladorVehiculos.dll
+C:\Users\W\Documents\GitHub\Bloque7\simuladorVehiculos\obj\Debug\net6.0\simuladorVehiculos.pdb
+C:\Users\W\Documents\GitHub\Bloque7\simuladorVehiculos\obj\Debug\net6.0\simuladorVehiculos.genruntimeconfig.cache
+C:\Users\W\Documents\GitHub\Bloque7\simuladorVehiculos\obj\Debug\net6.0\ref\simuladorVehiculos.dll

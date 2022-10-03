@@ -1,0 +1,15 @@
+C:\Users\W\Documents\GitHub\Bloque7\Facultades\bin\Debug\net6.0\Facultades.exe
+C:\Users\W\Documents\GitHub\Bloque7\Facultades\bin\Debug\net6.0\Facultades.deps.json
+C:\Users\W\Documents\GitHub\Bloque7\Facultades\bin\Debug\net6.0\Facultades.runtimeconfig.json
+C:\Users\W\Documents\GitHub\Bloque7\Facultades\bin\Debug\net6.0\Facultades.dll
+C:\Users\W\Documents\GitHub\Bloque7\Facultades\bin\Debug\net6.0\Facultades.pdb
+C:\Users\W\Documents\GitHub\Bloque7\Facultades\obj\Debug\net6.0\Facultades.csproj.AssemblyReference.cache
+C:\Users\W\Documents\GitHub\Bloque7\Facultades\obj\Debug\net6.0\Facultades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W\Documents\GitHub\Bloque7\Facultades\obj\Debug\net6.0\Facultades.AssemblyInfoInputs.cache
+C:\Users\W\Documents\GitHub\Bloque7\Facultades\obj\Debug\net6.0\Facultades.AssemblyInfo.cs
+C:\Users\W\Documents\GitHub\Bloque7\Facultades\obj\Debug\net6.0\Facultades.csproj.CoreCompileInputs.cache
+C:\Users\W\Documents\GitHub\Bloque7\Facultades\obj\Debug\net6.0\Facultades.dll
+C:\Users\W\Documents\GitHub\Bloque7\Facultades\obj\Debug\net6.0\refint\Facultades.dll
+C:\Users\W\Documents\GitHub\Bloque7\Facultades\obj\Debug\net6.0\Facultades.pdb
+C:\Users\W\Documents\GitHub\Bloque7\Facultades\obj\Debug\net6.0\Facultades.genruntimeconfig.cache
+C:\Users\W\Documents\GitHub\Bloque7\Facultades\obj\Debug\net6.0\ref\Facultades.dll
