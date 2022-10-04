@@ -10,15 +10,18 @@ namespace EjercicioEmpleado
         public int Telefono { get; set; }
         public double Salario { get; set; }
 
-        public Empleado supervisor;
+        public Empleado Supervisor;
 
         public Empleado()
         {
-
+        }
+        public Empleado(string a)
+        {
+            this.Supervisor.Nombre =a;
         }
      
         public Empleado(string nombre,string apellido,string dni,
-            string direccion,int telefono,double salario)
+            string direccion,int telefono,double salario,Empleado supervisor)
         {
             this.Nombre = nombre;
             this.Apellidos = apellido;
@@ -26,20 +29,23 @@ namespace EjercicioEmpleado
             this.Direccion = direccion;
             this.Telefono = telefono;
             this.Salario = salario;
+            this.Supervisor = supervisor;
             
         }
         public void cambiarSupervisor(Empleado supervisor)
         {
-            this.supervisor = supervisor;
+            this.Supervisor = supervisor;
         }
         public void incrementarSalario()
         {
+            this.Salario += 50000;
         }   
 
         public override string ToString()
         {
             return $"Empleado: {Nombre} {Apellidos} dni: {DNI} direccion: {Direccion}" +
-                $"telefono: {Telefono} salario: {Salario} supervisado por: {supervisor}";
+                $" telefono: {Telefono} salario: {Salario}";
+         
         }
 
     }

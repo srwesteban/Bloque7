@@ -6,14 +6,14 @@ namespace EjercicioEmpleado
 
 
         private string Puesto = "Secretario";
-        private int NumeroFax;
+        Despacho Despacho = new Despacho();
         public Secretario()
         {
 
         }
+      
         public Secretario(string nombre, string apellido, string dni,
-            string direccion, int telefono, double salario,
-            int numeroFax)
+            string direccion, int telefono, double salario)
         {
             this.Nombre = nombre;
             this.Apellidos = apellido;
@@ -21,18 +21,16 @@ namespace EjercicioEmpleado
             this.Direccion = direccion;
             this.Telefono = telefono;
             this.Salario = salario;
-            this.NumeroFax = numeroFax;
-
         }
         public void incrementoSalario()
         {
-            this.Salario += (Salario * 0.5);
+            this.Salario += (Salario * 0.05);
         }
 
         public override string ToString()
         {
-            return $"Empleado: {Nombre} {Apellidos} dni: {DNI} direccion: {Direccion}" +
-                $"telefono: {Telefono} numero de fax: {NumeroFax} salario: " +
+            return $"Empleado: {Nombre} {Apellidos} dni: {DNI} direccion: {Direccion} " +
+                $"telefono: {Telefono}\nDespacho: {Despacho} salario: " +
                 $"{Salario} puesto: {Puesto}";
         }
 

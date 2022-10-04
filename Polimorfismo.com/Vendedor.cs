@@ -4,18 +4,19 @@ namespace EjercicioEmpleado
 {
     public class Vendedor:Empleado,IEmpleado
     {
-        public Carro carro = new Carro();
+        public Carro carro;
         public string Puesto = "Vendedor";
         public string AreaVentas { get; set; }
 
-        public List<string> ListaClientes = new List<string>();        
-       
+        public Queue<string> ListaClientes = new Queue<string>();
+
+
         public Vendedor()
         {
 
         }
         public Vendedor(string nombre, string apellido, string dni,
-            string direccion, int telefono, double salario,string areaventas)
+            string direccion, int telefono, double salario,string areaventas,Carro car)
         {
             this.Nombre = nombre;
             this.Apellidos = apellido;
@@ -24,24 +25,34 @@ namespace EjercicioEmpleado
             this.Telefono = telefono;
             this.Salario = salario;    
             this.AreaVentas = areaventas;
+            this.carro = car;
 
         }
         public void incrementoSalario()
         {
             this.Salario += (Salario * 0.10);
         }
-        public List<string> darDeAlta(int i)
+        public void darDeAlta(string a)
         {
-            i = i-1;
-            return this.ListaClientes;
+            ListaClientes.Enqueue(a);
+
+            foreach (var cliente in ListaClientes)
+            {
+                Console.WriteLine(cliente);
+            }
+
         }
-        public List<string> darDeBaja()
+        public void darDeBaja()
         {
-            return this.ListaClientes;
+            ListaClientes.Dequeue();
+            foreach (var cliente in ListaClientes)
+            {
+                Console.WriteLine(cliente);
+            }
         }
-        public void cambiarCoche()
+        public void cambiarCoche(Carro a)
         {
-            
+            this.carro = a;
         }
 
 
@@ -49,7 +60,7 @@ namespace EjercicioEmpleado
         {
             return $"Empleado: {Nombre} {Apellidos} dni: {DNI} direccion: {Direccion}" +
                 $"telefono: {Telefono} area de ventas: {AreaVentas} salario: " +
-                $"{Salario} puesto: {Puesto} lista de clientes{ListaClientes}";
+                $"{Salario} puesto: {Puesto} carro: {carro}";
         }
     }
 }

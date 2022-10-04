@@ -21,5 +21,9 @@ namespace EjercicioEmpleado
             this.matriculaCarro = matriculaCarro;
             this.marcaCarro = marcaCarro;
         }
+        public override string ToString()
+        {
+            return $"matricula: {matriculaCarro} marca: {marcaCarro}";
+        }
     }
 }
